@@ -85,5 +85,8 @@ body {
 .box .validation ul li.valid {
   color: rgba(255, 255, 255, 0.5);
 }
+.box .validation ul li.valid span {
+  text-decoration: line-through;
+}
 
 /*# sourceMappingURL=style.css.map */
